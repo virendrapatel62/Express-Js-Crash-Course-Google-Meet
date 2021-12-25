@@ -1,0 +1,23 @@
+{
+  "name": "express-js-crash-course-google-meet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virendrapatel62/Express-Js-Crash-Course-Google-Meet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virendrapatel62/Express-Js-Crash-Course-Google-Meet/issues"
+  },
+  "homepage": "https://github.com/virendrapatel62/Express-Js-Crash-Course-Google-Meet#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
